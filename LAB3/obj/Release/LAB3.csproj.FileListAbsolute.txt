@@ -1,0 +1,12 @@
+W:\GitHub\7 Сортировки\LAB3\LAB3\bin\Release\LAB3.exe.config
+W:\GitHub\7 Сортировки\LAB3\LAB3\bin\Release\LAB3.exe
+W:\GitHub\7 Сортировки\LAB3\LAB3\bin\Release\LAB3.pdb
+W:\GitHub\7 Сортировки\LAB3\LAB3\obj\Release\LAB3.csproj.AssemblyReference.cache
+W:\GitHub\7 Сортировки\LAB3\LAB3\obj\Release\LAB3.csproj.SuggestedBindingRedirects.cache
+W:\GitHub\7 Сортировки\LAB3\LAB3\obj\Release\LAB3.Form1.resources
+W:\GitHub\7 Сортировки\LAB3\LAB3\obj\Release\LAB3.help.resources
+W:\GitHub\7 Сортировки\LAB3\LAB3\obj\Release\LAB3.Properties.Resources.resources
+W:\GitHub\7 Сортировки\LAB3\LAB3\obj\Release\LAB3.csproj.GenerateResource.cache
+W:\GitHub\7 Сортировки\LAB3\LAB3\obj\Release\LAB3.csproj.CoreCompileInputs.cache
+W:\GitHub\7 Сортировки\LAB3\LAB3\obj\Release\LAB3.exe
+W:\GitHub\7 Сортировки\LAB3\LAB3\obj\Release\LAB3.pdb
